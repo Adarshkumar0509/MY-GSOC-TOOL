@@ -1,29 +1,34 @@
 {
   "student": {
-    "name": "Your Name",
-    "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
+    "name": "Adarsh Kumar",
+    "bio": "Google Summer of Code 2026 Contributor",
+    "avatar": "https://github.com/Adarshkumar0509.png",
+    "github": "https://github.com/Adarshkumar0509",
     "email": "your.email@example.com",
     "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "linkedin": "https://www.linkedin.com/in/adarsh-kumar-6a5706285/"
   },
   "project": {
-    "title": "Your GSoC Project Title",
-    "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
+    "title": "OWASP Cornucopia",
+    "description": "Contributing to OWASP Cornucopia - a card game to help derive application security requirements and design during threat modelling sessions.",
+    "organization": "OWASP",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP/cornucopia"
     ]
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
+    "workspaceUrl": "https://app.slack.com/client/T04T40NHX/CJ7RW86LA",
     "channels": [
       "general",
-      "gsoc-2024",
-      "your-project-channel"
+      "gsoc-2026",
+      "cornucopia"
     ]
+  },
+  "mentor": {
+    "name": "SydSeter",
+    "avatar": "https://github.com/sydseter.png",
+    "github": "https://github.com/sydseter",
+    "role": "Project Mentor"
   }
 }
