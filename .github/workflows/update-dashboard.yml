@@ -1,5 +1,4 @@
 name: Update GSoC Dashboard
-
 on:
   schedule:
     # Run daily at midnight UTC
@@ -12,30 +11,32 @@ on:
       - 'config.json'
       - 'data/**'
       - 'scripts/**'
-
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
-
 jobs:
   fetch-github-contributions:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Fetch GitHub contributions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           node scripts/fetch-github-data.js
-
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/github-contributions.json
+          git diff --staged --quiet || git commit -m "chore: update github contributions data"
+          git push
   deploy-to-pages:
     needs: fetch-github-contributions
     runs-on: ubuntu-latest
@@ -47,15 +48,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
