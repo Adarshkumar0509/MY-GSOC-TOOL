@@ -1,10 +1,41 @@
 {
   "stats": {
-    "commits": 0,
-    "pullRequests": 0,
-    "issues": 0,
+    "commits": 18,
+    "pullRequests": 7,
+    "issues": 16,
     "reviews": 0
   },
-  "contributions": [],
-  "lastUpdated": "2026-02-19T00:35:46.717Z"
+  "contributions": [
+    {
+      "title": "fix: handle nil player in play_card API to prevent 500 crash",
+      "description": "Pull Request #2576 in OWASP/cornucopia",
+      "date": "2026-03-09T21:55:47Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2576"
+    },
+    {
+      "title": "fix: pin outdated GitHub Actions versions in CI workflows",
+      "description": "Pull Request #2552 in OWASP/cornucopia",
+      "date": "2026-03-07T08:26:12Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2552"
+    },
+    {
+      "title": "fix: remove incomplete delete game test from GameLiveTest",
+      "description": "Pull Request #2480 in OWASP/cornucopia",
+      "date": "2026-03-02T22:11:02Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2480"
+    },
+    {
+      "title": "fix: correct game summary link in player live view",
+      "description": "Pull Request #2460 in OWASP/cornucopia",
+      "date": "2026-03-01T18:46:13Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2460"
+    },
+    {
+      "title": "Upgrade to Python 3.13 and install Python 3.13 in ClusterFuzzLite",
+      "description": "Pull Request #2403 in OWASP/cornucopia",
+      "date": "2026-02-26T17:41:48Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2403"
+    }
+  ],
+  "lastUpdated": "2026-03-13T15:34:01.737Z"
 }
