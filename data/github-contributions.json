@@ -1,11 +1,29 @@
 {
   "stats": {
-    "commits": 18,
-    "pullRequests": 7,
+    "commits": 21,
+    "pullRequests": 10,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "Add playful description for MobileApp PC2 card",
+      "description": "Pull Request #2650 in OWASP/cornucopia",
+      "date": "2026-03-17T20:50:32Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2650"
+    },
+    {
+      "title": "Fix missing changelog tags in webapp-cards-3.0-hi.yaml",
+      "description": "Pull Request #2649 in OWASP/cornucopia",
+      "date": "2026-03-17T15:16:03Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2649"
+    },
+    {
+      "title": "Add Hindi translation for mobileapp-cards-1.1",
+      "description": "Pull Request #2642 in OWASP/cornucopia",
+      "date": "2026-03-16T10:14:00Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2642"
+    },
     {
       "title": "fix: handle nil player in play_card API to prevent 500 crash",
       "description": "Pull Request #2576 in OWASP/cornucopia",
@@ -17,25 +35,7 @@
       "description": "Pull Request #2552 in OWASP/cornucopia",
       "date": "2026-03-07T08:26:12Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2552"
-    },
-    {
-      "title": "fix: remove incomplete delete game test from GameLiveTest",
-      "description": "Pull Request #2480 in OWASP/cornucopia",
-      "date": "2026-03-02T22:11:02Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2480"
-    },
-    {
-      "title": "fix: correct game summary link in player live view",
-      "description": "Pull Request #2460 in OWASP/cornucopia",
-      "date": "2026-03-01T18:46:13Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2460"
-    },
-    {
-      "title": "Upgrade to Python 3.13 and install Python 3.13 in ClusterFuzzLite",
-      "description": "Pull Request #2403 in OWASP/cornucopia",
-      "date": "2026-02-26T17:41:48Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2403"
     }
   ],
-  "lastUpdated": "2026-03-17T01:48:11.639Z"
+  "lastUpdated": "2026-03-18T01:52:33.290Z"
 }
