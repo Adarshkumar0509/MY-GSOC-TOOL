@@ -1,11 +1,23 @@
 {
   "stats": {
-    "commits": 27,
-    "pullRequests": 12,
+    "commits": 49,
+    "pullRequests": 14,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix(security): encrypt existing game and player names during migration",
+      "description": "Pull Request #2754 in OWASP/cornucopia",
+      "date": "2026-04-01T06:52:06Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2754"
+    },
+    {
+      "title": "fix: remove unused scores field from DealtCard schema and database",
+      "description": "Pull Request #2711 in OWASP/cornucopia",
+      "date": "2026-03-20T19:39:30Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2711"
+    },
     {
       "title": "Fix: Integrate eslint-config-love and resolve ~1430 lint errors (#2647)",
       "description": "Pull Request #2675 in OWASP/cornucopia",
@@ -23,19 +35,7 @@
       "description": "Pull Request #2649 in OWASP/cornucopia",
       "date": "2026-03-17T15:16:03Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2649"
-    },
-    {
-      "title": "Add Hindi translation for mobileapp-cards-1.1",
-      "description": "Pull Request #2642 in OWASP/cornucopia",
-      "date": "2026-03-16T10:14:00Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2642"
-    },
-    {
-      "title": "fix: handle nil player in play_card API to prevent 500 crash",
-      "description": "Pull Request #2576 in OWASP/cornucopia",
-      "date": "2026-03-09T21:55:47Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2576"
     }
   ],
-  "lastUpdated": "2026-04-09T01:53:00.411Z"
+  "lastUpdated": "2026-04-10T02:06:14.941Z"
 }
