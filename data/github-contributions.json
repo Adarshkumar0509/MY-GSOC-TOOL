@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 49,
-    "pullRequests": 14,
+    "commits": 57,
+    "pullRequests": 15,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix: add form-action 'self' to CSP header for copi.owasp.org",
+      "description": "Pull Request #2775 in OWASP/cornucopia",
+      "date": "2026-04-08T22:17:26Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2775"
+    },
     {
       "title": "fix(security): encrypt existing game and player names during migration",
       "description": "Pull Request #2754 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2650 in OWASP/cornucopia",
       "date": "2026-03-17T20:50:32Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2650"
-    },
-    {
-      "title": "Fix missing changelog tags in webapp-cards-3.0-hi.yaml",
-      "description": "Pull Request #2649 in OWASP/cornucopia",
-      "date": "2026-03-17T15:16:03Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2649"
     }
   ],
-  "lastUpdated": "2026-04-14T02:06:43.995Z"
+  "lastUpdated": "2026-04-15T02:03:48.753Z"
 }
