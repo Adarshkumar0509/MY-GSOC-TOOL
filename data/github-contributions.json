@@ -1,11 +1,23 @@
 {
   "stats": {
-    "commits": 57,
-    "pullRequests": 15,
+    "commits": 64,
+    "pullRequests": 17,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix: update pathspec to 1.0.0 and add librt to resolve ClusterFuzzLite failure (fixes #2167)",
+      "description": "Pull Request #2835 in OWASP/cornucopia",
+      "date": "2026-04-18T17:55:36Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2835"
+    },
+    {
+      "title": "test(fuzzer): add fuzzing tests for capec_map_enricher.py (fixes #2167)",
+      "description": "Pull Request #2834 in OWASP/cornucopia",
+      "date": "2026-04-18T07:32:14Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2834"
+    },
     {
       "title": "fix: add form-action 'self' to CSP header for copi.owasp.org",
       "description": "Pull Request #2775 in OWASP/cornucopia",
@@ -23,19 +35,7 @@
       "description": "Pull Request #2711 in OWASP/cornucopia",
       "date": "2026-03-20T19:39:30Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2711"
-    },
-    {
-      "title": "Fix: Integrate eslint-config-love and resolve ~1430 lint errors (#2647)",
-      "description": "Pull Request #2675 in OWASP/cornucopia",
-      "date": "2026-03-19T00:49:12Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2675"
-    },
-    {
-      "title": "Add playful description for MobileApp PC2 card",
-      "description": "Pull Request #2650 in OWASP/cornucopia",
-      "date": "2026-03-17T20:50:32Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2650"
     }
   ],
-  "lastUpdated": "2026-04-18T01:58:39.755Z"
+  "lastUpdated": "2026-04-19T02:12:05.774Z"
 }
