@@ -1,7 +1,7 @@
 {
   "stats": {
-    "commits": 64,
-    "pullRequests": 17,
+    "commits": 78,
+    "pullRequests": 18,
     "issues": 18,
     "reviews": 0
   },
@@ -31,11 +31,11 @@
       "url": "https://github.com/OWASP/cornucopia/pull/2754"
     },
     {
-      "title": "fix: remove unused scores field from DealtCard schema and database",
-      "description": "Pull Request #2711 in OWASP/cornucopia",
-      "date": "2026-03-20T19:39:30Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2711"
+      "title": "fix: guide template page breaks and card back interleaving (#2133)",
+      "description": "Pull Request #2746 in OWASP/cornucopia",
+      "date": "2026-03-28T23:48:18Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2746"
     }
   ],
-  "lastUpdated": "2026-04-19T02:12:05.774Z"
+  "lastUpdated": "2026-04-20T02:12:21.561Z"
 }
