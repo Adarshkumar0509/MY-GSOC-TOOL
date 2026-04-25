@@ -1,16 +1,28 @@
 {
   "stats": {
-    "commits": 79,
-    "pullRequests": 19,
+    "commits": 97,
+    "pullRequests": 21,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
     {
+      "title": "fix: fix image size and paragraph spacing for es and uk guide templat…",
+      "description": "Pull Request #2870 in OWASP/cornucopia",
+      "date": "2026-04-24T07:05:56Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2870"
+    },
+    {
       "title": "fix: update companion edition card colors per issue #2851",
       "description": "Pull Request #2861 in OWASP/cornucopia",
       "date": "2026-04-22T18:26:12Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2861"
+    },
+    {
+      "title": "fix: section page breaks and card back interleaving - remaining issues (#2133)",
+      "description": "Pull Request #2839 in OWASP/cornucopia",
+      "date": "2026-04-19T16:59:56Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2839"
     },
     {
       "title": "fix: update pathspec to 1.0.0 and add librt to resolve ClusterFuzzLite failure (fixes #2167)",
@@ -23,19 +35,7 @@
       "description": "Pull Request #2834 in OWASP/cornucopia",
       "date": "2026-04-18T07:32:14Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2834"
-    },
-    {
-      "title": "fix: add form-action 'self' to CSP header for copi.owasp.org",
-      "description": "Pull Request #2775 in OWASP/cornucopia",
-      "date": "2026-04-08T22:17:26Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2775"
-    },
-    {
-      "title": "fix(security): encrypt existing game and player names during migration",
-      "description": "Pull Request #2754 in OWASP/cornucopia",
-      "date": "2026-04-01T06:52:06Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2754"
     }
   ],
-  "lastUpdated": "2026-04-24T02:10:55.996Z"
+  "lastUpdated": "2026-04-25T02:01:04.292Z"
 }
