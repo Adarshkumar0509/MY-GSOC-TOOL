@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 97,
-    "pullRequests": 21,
+    "commits": 101,
+    "pullRequests": 22,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix: remove blank pages and fix image placement in all bridge_qr guid…",
+      "description": "Pull Request #2876 in OWASP/cornucopia",
+      "date": "2026-04-24T22:13:14Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2876"
+    },
     {
       "title": "fix: fix image size and paragraph spacing for es and uk guide templat…",
       "description": "Pull Request #2870 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2835 in OWASP/cornucopia",
       "date": "2026-04-18T17:55:36Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2835"
-    },
-    {
-      "title": "test(fuzzer): add fuzzing tests for capec_map_enricher.py (fixes #2167)",
-      "description": "Pull Request #2834 in OWASP/cornucopia",
-      "date": "2026-04-18T07:32:14Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2834"
     }
   ],
-  "lastUpdated": "2026-04-25T02:01:04.292Z"
+  "lastUpdated": "2026-04-26T02:22:57.055Z"
 }
