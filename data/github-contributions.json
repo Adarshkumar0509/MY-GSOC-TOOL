@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 155,
-    "pullRequests": 23,
+    "commits": 156,
+    "pullRequests": 24,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix: add missing backside tables to fallback lang ODT template",
+      "description": "Pull Request #2899 in OWASP/cornucopia",
+      "date": "2026-04-29T07:50:16Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2899"
+    },
     {
       "title": "fix: remove blank pages and fix image placement in all bridge_qr guid…",
       "description": "Pull Request #2876 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2839 in OWASP/cornucopia",
       "date": "2026-04-19T16:59:56Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2839"
-    },
-    {
-      "title": "fix: update pathspec to 1.0.0 and add librt to resolve ClusterFuzzLite failure (fixes #2167)",
-      "description": "Pull Request #2835 in OWASP/cornucopia",
-      "date": "2026-04-18T17:55:36Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2835"
     }
   ],
-  "lastUpdated": "2026-04-29T02:33:02.122Z"
+  "lastUpdated": "2026-04-30T02:33:52.746Z"
 }
