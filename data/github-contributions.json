@@ -1,11 +1,29 @@
 {
   "stats": {
-    "commits": 156,
-    "pullRequests": 24,
+    "commits": 165,
+    "pullRequests": 27,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "fix: align copy URL button to left of input field on game show page",
+      "description": "Pull Request #2938 in OWASP/cornucopia",
+      "date": "2026-05-07T17:49:04Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2938"
+    },
+    {
+      "title": "Add companion edition mapping API endpoint (closes #2929)",
+      "description": "Pull Request #2934 in OWASP/cornucopia",
+      "date": "2026-05-07T08:58:37Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2934"
+    },
+    {
+      "title": "fix: responsive foundation breakpoints, lang attribute, skip link, vw units",
+      "description": "Pull Request #2906 in OWASP/cornucopia",
+      "date": "2026-05-03T20:42:26Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2906"
+    },
     {
       "title": "fix: add missing backside tables to fallback lang ODT template",
       "description": "Pull Request #2899 in OWASP/cornucopia",
@@ -17,25 +35,7 @@
       "description": "Pull Request #2876 in OWASP/cornucopia",
       "date": "2026-04-24T22:13:14Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2876"
-    },
-    {
-      "title": "fix: fix image size and paragraph spacing for es and uk guide templat…",
-      "description": "Pull Request #2870 in OWASP/cornucopia",
-      "date": "2026-04-24T07:05:56Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2870"
-    },
-    {
-      "title": "fix: update companion edition card colors per issue #2851",
-      "description": "Pull Request #2861 in OWASP/cornucopia",
-      "date": "2026-04-22T18:26:12Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2861"
-    },
-    {
-      "title": "fix: section page breaks and card back interleaving - remaining issues (#2133)",
-      "description": "Pull Request #2839 in OWASP/cornucopia",
-      "date": "2026-04-19T16:59:56Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2839"
     }
   ],
-  "lastUpdated": "2026-05-07T02:30:34.663Z"
+  "lastUpdated": "2026-05-08T02:37:14.277Z"
 }
