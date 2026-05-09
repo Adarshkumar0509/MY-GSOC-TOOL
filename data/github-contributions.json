@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 165,
-    "pullRequests": 27,
+    "commits": 166,
+    "pullRequests": 28,
     "issues": 18,
     "reviews": 0
   },
   "contributions": [
+    {
+      "title": "Add copy link button to card browser (closes #2937)",
+      "description": "Pull Request #2939 in OWASP/cornucopia",
+      "date": "2026-05-07T21:23:03Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2939"
+    },
     {
       "title": "fix: align copy URL button to left of input field on game show page",
       "description": "Pull Request #2938 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2899 in OWASP/cornucopia",
       "date": "2026-04-29T07:50:16Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2899"
-    },
-    {
-      "title": "fix: remove blank pages and fix image placement in all bridge_qr guid…",
-      "description": "Pull Request #2876 in OWASP/cornucopia",
-      "date": "2026-04-24T22:13:14Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2876"
     }
   ],
-  "lastUpdated": "2026-05-08T02:37:14.277Z"
+  "lastUpdated": "2026-05-09T02:30:36.608Z"
 }
