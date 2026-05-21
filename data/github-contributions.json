@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 166,
-    "pullRequests": 28,
+    "commits": 167,
+    "pullRequests": 29,
     "issues": 19,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: prevent game share URL from overflowing on mobile screens",
+      "description": "Pull Request #2980 in OWASP/cornucopia",
+      "date": "2026-05-12T22:00:09Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/2980"
+    },
     {
       "title": "Add copy link button to card browser (closes #2937)",
       "description": "Pull Request #2939 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2906 in OWASP/cornucopia",
       "date": "2026-05-03T20:42:26Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2906"
-    },
-    {
-      "title": "fix: add missing backside tables to fallback lang ODT template",
-      "description": "Pull Request #2899 in OWASP/cornucopia",
-      "date": "2026-04-29T07:50:16Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2899"
     }
   ],
-  "lastUpdated": "2026-05-20T02:48:47.255Z"
+  "lastUpdated": "2026-05-21T02:52:07.682Z"
 }
