@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 167,
-    "pullRequests": 29,
+    "commits": 178,
+    "pullRequests": 30,
     "issues": 19,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix/mobile-navbar-improvements",
+      "description": "Pull Request #3062 in OWASP/cornucopia",
+      "date": "2026-06-03T17:49:58Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3062"
+    },
     {
       "title": "fix: prevent game share URL from overflowing on mobile screens",
       "description": "Pull Request #2980 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2934 in OWASP/cornucopia",
       "date": "2026-05-07T08:58:37Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2934"
-    },
-    {
-      "title": "fix: responsive foundation breakpoints, lang attribute, skip link, vw units",
-      "description": "Pull Request #2906 in OWASP/cornucopia",
-      "date": "2026-05-03T20:42:26Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2906"
     }
   ],
-  "lastUpdated": "2026-06-07T03:26:26.756Z"
+  "lastUpdated": "2026-06-08T03:32:03.378Z"
 }
