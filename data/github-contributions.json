@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 178,
-    "pullRequests": 30,
-    "issues": 19,
+    "commits": 182,
+    "pullRequests": 31,
+    "issues": 20,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: prevent sponsors link from being clipped on mobile navbar",
+      "description": "Pull Request #3086 in OWASP/cornucopia",
+      "date": "2026-06-08T14:37:23Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3086"
+    },
     {
       "title": "fix/mobile-navbar-improvements",
       "description": "Pull Request #3062 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2938 in OWASP/cornucopia",
       "date": "2026-05-07T17:49:04Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2938"
-    },
-    {
-      "title": "Add companion edition mapping API endpoint (closes #2929)",
-      "description": "Pull Request #2934 in OWASP/cornucopia",
-      "date": "2026-05-07T08:58:37Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2934"
     }
   ],
-  "lastUpdated": "2026-06-08T03:32:03.378Z"
+  "lastUpdated": "2026-06-09T02:42:23.285Z"
 }
