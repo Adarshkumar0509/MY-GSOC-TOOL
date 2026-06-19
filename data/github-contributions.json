@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 186,
-    "pullRequests": 32,
+    "commits": 188,
+    "pullRequests": 33,
     "issues": 21,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: shorten nav labels to fit Sponsors link on mobile",
+      "description": "Pull Request #3107 in OWASP/cornucopia",
+      "date": "2026-06-13T12:22:57Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3107"
+    },
     {
       "title": "Fix/add dbd card deck",
       "description": "Pull Request #3094 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #2980 in OWASP/cornucopia",
       "date": "2026-05-12T22:00:09Z",
       "url": "https://github.com/OWASP/cornucopia/pull/2980"
-    },
-    {
-      "title": "Add copy link button to card browser (closes #2937)",
-      "description": "Pull Request #2939 in OWASP/cornucopia",
-      "date": "2026-05-07T21:23:03Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2939"
     }
   ],
-  "lastUpdated": "2026-06-18T03:28:53.778Z"
+  "lastUpdated": "2026-06-19T03:51:29.604Z"
 }
