@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 188,
-    "pullRequests": 33,
+    "commits": 190,
+    "pullRequests": 34,
     "issues": 21,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "Fix/vote count display 3104",
+      "description": "Pull Request #3141 in OWASP/cornucopia",
+      "date": "2026-06-19T12:22:50Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3141"
+    },
     {
       "title": "fix: shorten nav labels to fit Sponsors link on mobile",
       "description": "Pull Request #3107 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3062 in OWASP/cornucopia",
       "date": "2026-06-03T17:49:58Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3062"
-    },
-    {
-      "title": "fix: prevent game share URL from overflowing on mobile screens",
-      "description": "Pull Request #2980 in OWASP/cornucopia",
-      "date": "2026-05-12T22:00:09Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/2980"
     }
   ],
-  "lastUpdated": "2026-06-19T03:51:29.604Z"
+  "lastUpdated": "2026-06-20T02:53:51.131Z"
 }
