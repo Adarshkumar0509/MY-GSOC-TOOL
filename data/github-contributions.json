@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 190,
-    "pullRequests": 34,
+    "commits": 192,
+    "pullRequests": 35,
     "issues": 21,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "feat: add JSON-LD structured data to homepage and fix CSP nonce hook …",
+      "description": "Pull Request #3150 in OWASP/cornucopia",
+      "date": "2026-06-23T19:20:01Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3150"
+    },
     {
       "title": "Fix/vote count display 3104",
       "description": "Pull Request #3141 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3086 in OWASP/cornucopia",
       "date": "2026-06-08T14:37:23Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3086"
-    },
-    {
-      "title": "fix/mobile-navbar-improvements",
-      "description": "Pull Request #3062 in OWASP/cornucopia",
-      "date": "2026-06-03T17:49:58Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3062"
     }
   ],
-  "lastUpdated": "2026-06-23T02:47:38.367Z"
+  "lastUpdated": "2026-06-24T02:48:17.228Z"
 }
