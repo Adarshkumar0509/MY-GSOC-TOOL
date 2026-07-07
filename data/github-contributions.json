@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 192,
-    "pullRequests": 35,
+    "commits": 193,
+    "pullRequests": 36,
     "issues": 21,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: correct Links folder name for mobileapp output",
+      "description": "Pull Request #3151 in OWASP/cornucopia",
+      "date": "2026-06-23T21:04:19Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3151"
+    },
     {
       "title": "feat: add JSON-LD structured data to homepage and fix CSP nonce hook …",
       "description": "Pull Request #3150 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3094 in OWASP/cornucopia",
       "date": "2026-06-10T03:53:05Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3094"
-    },
-    {
-      "title": "fix: prevent sponsors link from being clipped on mobile navbar",
-      "description": "Pull Request #3086 in OWASP/cornucopia",
-      "date": "2026-06-08T14:37:23Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3086"
     }
   ],
-  "lastUpdated": "2026-07-06T02:43:23.218Z"
+  "lastUpdated": "2026-07-07T02:39:15.109Z"
 }
