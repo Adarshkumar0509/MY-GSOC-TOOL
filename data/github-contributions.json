@@ -1,11 +1,29 @@
 {
   "stats": {
-    "commits": 193,
-    "pullRequests": 36,
+    "commits": 197,
+    "pullRequests": 39,
     "issues": 21,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "upgrade node version to 26 in all workflow files",
+      "description": "Pull Request #3245 in OWASP/cornucopia",
+      "date": "2026-07-17T10:56:55Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3245"
+    },
+    {
+      "title": "Prevent self-voting server-side in toggle_vote handler",
+      "description": "Pull Request #3237 in OWASP/cornucopia",
+      "date": "2026-07-17T06:34:47Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3237"
+    },
+    {
+      "title": "fix: switch rate limiter to Fly-Client-IP for fly deployments (closes…",
+      "description": "Pull Request #3236 in OWASP/cornucopia",
+      "date": "2026-07-17T01:35:13Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3236"
+    },
     {
       "title": "fix: correct Links folder name for mobileapp output",
       "description": "Pull Request #3151 in OWASP/cornucopia",
@@ -17,25 +35,7 @@
       "description": "Pull Request #3150 in OWASP/cornucopia",
       "date": "2026-06-23T19:20:01Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3150"
-    },
-    {
-      "title": "Fix/vote count display 3104",
-      "description": "Pull Request #3141 in OWASP/cornucopia",
-      "date": "2026-06-19T12:22:50Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3141"
-    },
-    {
-      "title": "fix: shorten nav labels to fit Sponsors link on mobile",
-      "description": "Pull Request #3107 in OWASP/cornucopia",
-      "date": "2026-06-13T12:22:57Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3107"
-    },
-    {
-      "title": "Fix/add dbd card deck",
-      "description": "Pull Request #3094 in OWASP/cornucopia",
-      "date": "2026-06-10T03:53:05Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3094"
     }
   ],
-  "lastUpdated": "2026-07-17T02:11:06.339Z"
+  "lastUpdated": "2026-07-18T02:00:58.615Z"
 }
