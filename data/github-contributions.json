@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 201,
-    "pullRequests": 40,
+    "commits": 202,
+    "pullRequests": 41,
     "issues": 22,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: redirect to game summary when finished game is refreshed",
+      "description": "Pull Request #3358 in OWASP/cornucopia",
+      "date": "2026-08-15T11:53:59Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3358"
+    },
     {
       "title": "build(deps): bump virtualenv from 20.39.0 to 21.7.1",
       "description": "Pull Request #3314 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3237 in OWASP/cornucopia",
       "date": "2026-07-17T06:34:47Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3237"
-    },
-    {
-      "title": "fix: switch rate limiter to Fly-Client-IP for fly deployments (closes…",
-      "description": "Pull Request #3236 in OWASP/cornucopia",
-      "date": "2026-07-17T01:35:13Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3236"
     }
   ],
-  "lastUpdated": "2026-08-16T01:00:00.852Z"
+  "lastUpdated": "2026-08-17T00:57:50.605Z"
 }
