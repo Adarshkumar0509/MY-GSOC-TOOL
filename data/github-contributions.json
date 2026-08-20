@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 202,
-    "pullRequests": 41,
+    "commits": 209,
+    "pullRequests": 42,
     "issues": 22,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "Add name format validation to player and game changesets",
+      "description": "Pull Request #3372 in OWASP/cornucopia",
+      "date": "2026-08-17T14:28:13Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3372"
+    },
     {
       "title": "fix: redirect to game summary when finished game is refreshed",
       "description": "Pull Request #3358 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3245 in OWASP/cornucopia",
       "date": "2026-07-17T10:56:55Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3245"
-    },
-    {
-      "title": "Prevent self-voting server-side in toggle_vote handler",
-      "description": "Pull Request #3237 in OWASP/cornucopia",
-      "date": "2026-07-17T06:34:47Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3237"
     }
   ],
-  "lastUpdated": "2026-08-19T00:56:50.063Z"
+  "lastUpdated": "2026-08-20T00:56:25.251Z"
 }
