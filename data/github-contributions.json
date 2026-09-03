@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 196,
-    "pullRequests": 38,
-    "issues": 15,
+    "commits": 214,
+    "pullRequests": 39,
+    "issues": 12,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: use page.data for dynamic SEO meta tags instead of duplicating t…",
+      "description": "Pull Request #3411 in OWASP/cornucopia",
+      "date": "2026-08-27T01:50:55Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3411"
+    },
     {
       "title": "Add name format validation to player and game changesets",
       "description": "Pull Request #3372 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3308 in OWASP/cornucopia",
       "date": "2026-07-31T12:37:58Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3308"
-    },
-    {
-      "title": "upgrade node version to 26 in all workflow files",
-      "description": "Pull Request #3245 in OWASP/cornucopia",
-      "date": "2026-07-17T10:56:55Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3245"
     }
   ],
-  "lastUpdated": "2026-09-02T02:32:22.291Z"
+  "lastUpdated": "2026-09-03T02:39:37.930Z"
 }
