@@ -300,18 +300,6 @@ The following users have forked this project:
 - [arnavkirti/MY-GSOC-TOOL](https://github.com/arnavkirti/MY-GSOC-TOOL) - ⭐ 0 stars
 - [swaparup36/MY-GSOC-TOOL](https://github.com/swaparup36/MY-GSOC-TOOL) - ⭐ 0 stars
 - [DevalPrime/MY-GSOC-TOOL](https://github.com/DevalPrime/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Rudra-rps/MY-GSOC-TOOL](https://github.com/Rudra-rps/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Kunal241207/MY-GSOC-TOOL](https://github.com/Kunal241207/MY-GSOC-TOOL) - ⭐ 0 stars
-- [mdkaifansari04/MY-GSOC-TOOL](https://github.com/mdkaifansari04/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Nachiket-Roy/MY-GSOC-TOOL](https://github.com/Nachiket-Roy/MY-GSOC-TOOL) - ⭐ 0 stars
-- [karunarapolu/MY-GSOC-TOOL](https://github.com/karunarapolu/MY-GSOC-TOOL) - ⭐ 0 stars
-- [abdallahrali/MY-GSOC-TOOL](https://github.com/abdallahrali/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Sumit6307/MY-GSOC-TOOL](https://github.com/Sumit6307/MY-GSOC-TOOL) - ⭐ 0 stars
-- [BUDEGlobalEnterprise/MY-GSOC-TOOL](https://github.com/BUDEGlobalEnterprise/MY-GSOC-TOOL) - ⭐ 0 stars
-- [e-esakman/MY-GSOC-TOOL](https://github.com/e-esakman/MY-GSOC-TOOL) - ⭐ 0 stars
-- [DishaA06/MY-GSOC-TOOL](https://github.com/DishaA06/MY-GSOC-TOOL) - ⭐ 0 stars
-- [sidd190/MY-GSOC-TOOL](https://github.com/sidd190/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Krishiv-Mahajan/MY-GSOC-TOOL](https://github.com/Krishiv-Mahajan/MY-GSOC-TOOL) - ⭐ 0 stars
 - [ananya-09/MY-GSOC-TOOL](https://github.com/ananya-09/MY-GSOC-TOOL) - ⭐ 0 stars
 
 _Last updated: 2026-03-07 00:27:00 UTC_
