@@ -293,13 +293,6 @@ The following users have forked this project:
 - [Varshith2403315/MY-GSOC-TOOL](https://github.com/Varshith2403315/MY-GSOC-TOOL) - ⭐ 0 stars
 - [aimaan-ayaz/MY-GSOC-TOOL](https://github.com/aimaan-ayaz/MY-GSOC-TOOL) - ⭐ 0 stars
 - [Shhazzz/MY-GSOC-TOOL](https://github.com/Shhazzz/MY-GSOC-TOOL) - ⭐ 0 stars
-- [ojaswa072/MY-GSOC-TOOL](https://github.com/ojaswa072/MY-GSOC-TOOL) - ⭐ 0 stars
-- [Aaravanand00/MY-GSOC-TOOL](https://github.com/Aaravanand00/MY-GSOC-TOOL) - ⭐ 0 stars
-- [btwshivam/MY-GSOC-TOOL](https://github.com/btwshivam/MY-GSOC-TOOL) - ⭐ 0 stars
-- [stealthwhizz/MY-GSOC-TOOL](https://github.com/stealthwhizz/MY-GSOC-TOOL) - ⭐ 0 stars
-- [arnavkirti/MY-GSOC-TOOL](https://github.com/arnavkirti/MY-GSOC-TOOL) - ⭐ 0 stars
-- [swaparup36/MY-GSOC-TOOL](https://github.com/swaparup36/MY-GSOC-TOOL) - ⭐ 0 stars
-- [DevalPrime/MY-GSOC-TOOL](https://github.com/DevalPrime/MY-GSOC-TOOL) - ⭐ 0 stars
 - [ananya-09/MY-GSOC-TOOL](https://github.com/ananya-09/MY-GSOC-TOOL) - ⭐ 0 stars
 
 _Last updated: 2026-03-07 00:27:00 UTC_
