@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 161,
-    "pullRequests": 29,
+    "commits": 167,
+    "pullRequests": 30,
     "issues": 4,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: validate null bytes in capec_map_enricher CLI arguments",
+      "description": "Pull Request #3591 in OWASP/cornucopia",
+      "date": "2026-10-10T11:38:39Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3591"
+    },
     {
       "title": "feat: migrate sveltekit-i18n from 2.4.2 to 3.0.0",
       "description": "Pull Request #3512 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3358 in OWASP/cornucopia",
       "date": "2026-08-15T11:53:59Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3358"
-    },
-    {
-      "title": "build(deps): bump virtualenv from 20.39.0 to 21.7.1",
-      "description": "Pull Request #3314 in OWASP/cornucopia",
-      "date": "2026-08-03T12:36:42Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3314"
     }
   ],
-  "lastUpdated": "2026-10-11T03:35:21.980Z"
+  "lastUpdated": "2026-10-12T03:59:21.672Z"
 }
