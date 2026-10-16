@@ -1,7 +1,7 @@
 {
   "stats": {
     "commits": 166,
-    "pullRequests": 30,
+    "pullRequests": 29,
     "issues": 4,
     "reviews": 1
   },
@@ -37,5 +37,5 @@
       "url": "https://github.com/OWASP/cornucopia/pull/3358"
     }
   ],
-  "lastUpdated": "2026-10-15T02:53:41.308Z"
+  "lastUpdated": "2026-10-16T02:51:19.900Z"
 }
