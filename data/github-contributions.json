@@ -1,6 +1,6 @@
 {
   "stats": {
-    "commits": 166,
+    "commits": 159,
     "pullRequests": 29,
     "issues": 4,
     "reviews": 1
@@ -19,7 +19,7 @@
       "url": "https://github.com/OWASP/cornucopia/pull/3512"
     },
     {
-      "title": "fix: use page.data for dynamic SEO meta tags instead of duplicating t…",
+      "title": "fix: use page.data for dynamic SEO meta tags instead of duplicating t��",
       "description": "Pull Request #3411 in OWASP/cornucopia",
       "date": "2026-08-27T01:50:55Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3411"
@@ -37,5 +37,5 @@
       "url": "https://github.com/OWASP/cornucopia/pull/3358"
     }
   ],
-  "lastUpdated": "2026-10-16T02:51:19.900Z"
+  "lastUpdated": "2026-10-17T02:42:40.356Z"
 }
