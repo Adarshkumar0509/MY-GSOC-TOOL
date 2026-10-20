@@ -289,7 +289,6 @@ If you encounter issues or have questions:
 The following users have forked this project:
 
 - [Pritz395/MY-GSOC-TOOL](https://github.com/Pritz395/MY-GSOC-TOOL) - ⭐ 2 stars
-- [ananya-09/MY-GSOC-TOOL](https://github.com/ananya-09/MY-GSOC-TOOL) - ⭐ 0 stars
 
 _Last updated: 2026-03-07 00:27:00 UTC_
 <!-- FORKS_END -->
