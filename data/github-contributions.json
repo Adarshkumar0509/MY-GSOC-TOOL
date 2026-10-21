@@ -1,7 +1,7 @@
 {
   "stats": {
-    "commits": 139,
-    "pullRequests": 26,
+    "commits": 132,
+    "pullRequests": 27,
     "issues": 4,
     "reviews": 1
   },
@@ -19,6 +19,12 @@
       "url": "https://github.com/OWASP/cornucopia/pull/3512"
     },
     {
+      "title": "feat: read decks.yaml via src/lib/config.js",
+      "description": "Pull Request #3510 in OWASP/cornucopia",
+      "date": "2026-09-19T08:01:29Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3510"
+    },
+    {
       "title": "fix: use page.data for dynamic SEO meta tags instead of duplicating t…",
       "description": "Pull Request #3411 in OWASP/cornucopia",
       "date": "2026-08-27T01:50:55Z",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3372 in OWASP/cornucopia",
       "date": "2026-08-17T14:28:13Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3372"
-    },
-    {
-      "title": "fix: redirect to game summary when finished game is refreshed",
-      "description": "Pull Request #3358 in OWASP/cornucopia",
-      "date": "2026-08-15T11:53:59Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3358"
     }
   ],
-  "lastUpdated": "2026-10-20T03:07:07.072Z"
+  "lastUpdated": "2026-10-21T03:01:14.734Z"
 }
