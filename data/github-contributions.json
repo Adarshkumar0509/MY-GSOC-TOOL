@@ -1,11 +1,23 @@
 {
   "stats": {
-    "commits": 83,
-    "pullRequests": 23,
+    "commits": 91,
+    "pullRequests": 25,
     "issues": 5,
     "reviews": 1
   },
   "contributions": [
+    {
+      "title": "fix: add disk cleanup step to prevent runner out of space in ZAP scan",
+      "description": "Pull Request #3721 in OWASP/cornucopia",
+      "date": "2026-11-02T17:49:11Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3721"
+    },
+    {
+      "title": "feat: consolidate website config and add translation route smoke tests",
+      "description": "Pull Request #3670 in OWASP/cornucopia",
+      "date": "2026-10-25T07:35:51Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3670"
+    },
     {
       "title": "fix: add missing backslash in ZAP website nightly scan workflow",
       "description": "Pull Request #3643 in OWASP/cornucopia",
@@ -23,19 +35,7 @@
       "description": "Pull Request #3512 in OWASP/cornucopia",
       "date": "2026-09-19T15:42:03Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3512"
-    },
-    {
-      "title": "feat: read decks.yaml via src/lib/config.js",
-      "description": "Pull Request #3510 in OWASP/cornucopia",
-      "date": "2026-09-19T08:01:29Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3510"
-    },
-    {
-      "title": "fix: use page.data for dynamic SEO meta tags instead of duplicating t…",
-      "description": "Pull Request #3411 in OWASP/cornucopia",
-      "date": "2026-08-27T01:50:55Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3411"
     }
   ],
-  "lastUpdated": "2026-11-03T05:01:40.911Z"
+  "lastUpdated": "2026-11-04T04:34:24.122Z"
 }
