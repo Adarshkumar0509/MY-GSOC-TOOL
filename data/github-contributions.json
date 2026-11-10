@@ -1,11 +1,17 @@
 {
   "stats": {
-    "commits": 85,
-    "pullRequests": 22,
+    "commits": 86,
+    "pullRequests": 23,
     "issues": 5,
-    "reviews": 1
+    "reviews": 0
   },
   "contributions": [
+    {
+      "title": "integrate pdf-decks into pre-release and release pipelines",
+      "description": "Pull Request #3750 in OWASP/cornucopia",
+      "date": "2026-11-08T18:28:03Z",
+      "url": "https://github.com/OWASP/cornucopia/pull/3750"
+    },
     {
       "title": "fix: add disk cleanup step to prevent runner out of space in ZAP scan",
       "description": "Pull Request #3721 in OWASP/cornucopia",
@@ -29,13 +35,7 @@
       "description": "Pull Request #3591 in OWASP/cornucopia",
       "date": "2026-10-10T11:38:39Z",
       "url": "https://github.com/OWASP/cornucopia/pull/3591"
-    },
-    {
-      "title": "feat: migrate sveltekit-i18n from 2.4.2 to 3.0.0",
-      "description": "Pull Request #3512 in OWASP/cornucopia",
-      "date": "2026-09-19T15:42:03Z",
-      "url": "https://github.com/OWASP/cornucopia/pull/3512"
     }
   ],
-  "lastUpdated": "2026-11-09T04:17:32.508Z"
+  "lastUpdated": "2026-11-10T05:43:22.870Z"
 }
