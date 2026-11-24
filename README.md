@@ -1,4 +1,4 @@
-# GSoC Student Dashboard 🎓
+# GSoC 2027 Student Dashboard 🎓
 
 A comprehensive, automated dashboard for Google Summer of Code students to showcase their entire GSoC journey on one page. This dashboard automatically fetches your GitHub contributions, displays your blog posts, tracks mentor feedback, and highlights your milestones—all in a beautiful, responsive interface.
 
