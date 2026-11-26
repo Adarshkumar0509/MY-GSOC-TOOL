@@ -58,7 +58,7 @@ function getRepoDetails(url) {
     return null;
 }
 
-// Function to make GitHub API request
+// This Function to make GitHub API request
 function makeRequest(path) {
     return new Promise((resolve, reject) => {
         const options = {
