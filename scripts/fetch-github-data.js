@@ -2,7 +2,7 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-// Load environment variables if .env file exists
+//this will Load environment variables if .env file exists
 const envPath = path.resolve(__dirname, '../.env');
 if (fs.existsSync(envPath)) {
     try {
